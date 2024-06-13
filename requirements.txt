@@ -1,0 +1,4 @@
+trdg
+pandas
+Pillow==9.5.0
+requests
